@@ -2,7 +2,7 @@
   "name": "calc.js",
   "version": "1.0.0",
   "description": "A simple calculator app built with node",
-  "main": "index.js",
+  "main": "calc.js",
   "scripts": {
     "test": "mocha"
   },
