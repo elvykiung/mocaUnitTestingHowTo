@@ -1,4 +1,4 @@
-//n require test module
+// require test module
 const assert = require('assert');
 // import function that need to test
 const operations = require('./operation.js');
