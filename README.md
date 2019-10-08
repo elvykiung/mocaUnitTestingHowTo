@@ -2,7 +2,7 @@
 
 Practice with Tanua Rascia
 
-Here the github : https://github.com/taniarascia/calc
+Here her github : https://github.com/taniarascia/calc
 
 ## Basic workflow 
 1. Write the test code and expectation result
