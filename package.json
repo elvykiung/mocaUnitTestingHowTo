@@ -1,0 +1,26 @@
+{
+  "name": "calc.js",
+  "version": "1.0.0",
+  "description": "A simple calculator app built with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvykiung/mochaUnitTestingHowTo.git"
+  },
+  "keywords": [
+    "mocha",
+    "calculator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvykiung/mochaUnitTestingHowTo/issues"
+  },
+  "homepage": "https://github.com/elvykiung/mochaUnitTestingHowTo#readme",
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  }
+}
